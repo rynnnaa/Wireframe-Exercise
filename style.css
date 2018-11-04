@@ -1,0 +1,76 @@
+#middleimg {
+  position: static;
+  width:1200px;
+}
+
+header {
+  background-color: #DDD;
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  display: inline-table;
+}
+ul img {
+  height: 80px;
+  float: center;
+}
+li {
+  position: relative;
+  padding: 30px;
+  float: right;
+}
+li a {
+  display: block;
+  color: black
+}
+
+.res {
+  text-align: left;
+}
+
+.needspace {
+  padding: 20px;
+  margin-right: 100px;
+}
+
+.subbar {
+  position: relative;
+  padding: 20px;
+  width: 100%;
+}
+.body {
+  width: 100%;
+
+}
+#logo {
+  padding: 5px;
+  float: left;
+  padding-left: 200px;
+}
+.makespace {
+  padding: 30px;
+}
+#middlepic {
+  margin: 40px;
+  text-emphasis: float;
+}
+#text {
+  float: right;
+}
+
+#bottompic {
+  float: left;
+  padding: 20px;
+  width:300px;
+}
+
+#footOfPage {
+  background-color: #DDD;
+  padding: 30px;
+  margin: 20px;
+  position: unset;
+}
